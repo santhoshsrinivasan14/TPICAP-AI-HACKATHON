@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-chroma
+pandas
+faiss-cpu
+sentence-transformers
+ollama

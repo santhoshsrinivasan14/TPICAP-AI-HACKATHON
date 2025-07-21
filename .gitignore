@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+user_feedback.csv
+course_index.faiss
+course_metadata.pkl
+*.db
