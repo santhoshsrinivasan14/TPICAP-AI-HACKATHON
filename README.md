@@ -94,13 +94,7 @@ Ask your question: I want to learn cloud computing
 
 Which course above do you like? (paste course title, or leave blank to skip):
 
-| File               | Purpose                                  |
-| ------------------ | ---------------------------------------- |
-| `main.py`          | Main CLI logic and user memory           |
-| `vector.py`        | Vector search/semantic retrieval         |
-| `courses.csv`      | Sample course data                       |
-| `requirements.txt` | Python dependencies                      |
-| `.gitignore`       | Ignore virtualenv, feedback, index files |
+
 
 
 User feedback is saved in user_feedback.csv (generated at runtime).
@@ -108,5 +102,10 @@ User feedback is saved in user_feedback.csv (generated at runtime).
 The system improves as users interact and like courses—each user gets personalized, adaptive recommendations.
 
 No API keys required; everything runs locally!
+
+Contact
+Questions? Reach out via GitHub Issues.
+
+Good luck and enjoy the demo!
 
 
