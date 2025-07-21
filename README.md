@@ -94,6 +94,14 @@ Ask your question: I want to learn cloud computing
 
 Which course above do you like? (paste course title, or leave blank to skip):
 
+| File               | Purpose                                  |
+| ------------------ | ---------------------------------------- |
+| `main.py`          | Main CLI logic and user memory           |
+| `vector.py`        | Vector search/semantic retrieval         |
+| `courses.csv`      | Sample course data                       |
+| `requirements.txt` | Python dependencies                      |
+| `.gitignore`       | Ignore virtualenv, feedback, index files |
+
 
 User feedback is saved in user_feedback.csv (generated at runtime).
 
