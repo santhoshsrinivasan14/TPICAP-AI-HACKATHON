@@ -30,7 +30,7 @@ def save_feedback(user_id, query, reviews, selected_title):
 
 # 4. Main RAG setup
 retriever = Retriever()
-model = OllamaLLM(model="phi3")  # or use "llama2:7b" if phi3 doesn't work for you!
+model = OllamaLLM(model="phi3")  
 template = """
 You are an expert course advisor.
 Here are some relevant courses: {reviews}
