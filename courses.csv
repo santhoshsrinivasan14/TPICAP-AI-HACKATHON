@@ -1,16 +1,16 @@
-id,title,description,category
-1,Intro to Python,Learn Python basics: variables, loops, and functions,Programming
-2,Object-Oriented Java,Master Java OOP concepts and design patterns,Programming
-3,Web Development Foundations,Build responsive websites using HTML5, CSS3, and JavaScript,Web Development
-4,JavaScript Deep Dive,Advanced JavaScript topics including ES6+, Web APIs, and async,Web Development
-5,Data Science with Python,Perform data analysis using pandas, NumPy, and Matplotlib,Data Science
-6,Machine Learning Basics,Supervised and unsupervised learning with scikit-learn,Data Science
-7,Deep Learning with TensorFlow,Build and train neural networks using TensorFlow,AI
-8,DevOps Essentials,CI/CD pipelines, Docker, and Kubernetes fundamentals,DevOps
-9,AWS Cloud Practitioner,Introduction to AWS core services (EC2, S3, RDS),Cloud Computing
-10,SQL for Data Analysis,Query and manipulate relational databases with SQL,Data Analysis
-11,NoSQL Databases with MongoDB,Learn schema-less data modeling and querying in MongoDB,Databases
-12,Mobile Apps with React Native,Create cross-platform mobile applications using React Native,Mobile Development
-13,Cybersecurity Fundamentals,Network security, encryption, and best practices,Security
-14,UX/UI Design Principles,Design intuitive user interfaces and prototypes in Figma,Design
-15,Agile Project Management,Manage software projects using Scrum and Agile methodologies,Management
+﻿id,title,description,category
+1,Intro to Python,"Learn Python basics: variables, loops, and functions","Python Programming"
+2,Object-Oriented Java,"Master Java OOP concepts and design patterns","JAVA Programming"
+3,Web Development Foundations,"Build responsive websites using HTML5, CSS3, and JavaScript","Web Development"
+4,JavaScript Deep Dive,"Advanced JavaScript topics including ES6+, Web APIs, and async","Web Development"
+5,Data Science with Python,"Perform data analysis using pandas, NumPy, and Matplotlib","Data Science"
+6,Machine Learning Basics,"Supervised and unsupervised learning with scikit-learn","Data Science"
+7,Deep Learning with TensorFlow,"Build and train neural networks using TensorFlow","AI"
+8,DevOps Essentials,"CI/CD pipelines, Docker, and Kubernetes fundamentals","DevOps"
+9,AWS Cloud Practitioner,"Introduction to AWS core services (EC2, S3, RDS)","Cloud Computing"
+10,SQL for Data Analysis,"Query and manipulate relational databases with SQL","Data Analysis"
+11,NoSQL Databases with MongoDB,"Learn schema-less data modeling and querying in MongoDB","Databases"
+12,Mobile Apps with React Native,"Create cross-platform mobile applications using React Native","Mobile Development"
+13,Cybersecurity Fundamentals,"Network security, encryption, and best practices","Security"
+14,UX/UI Design Principles,"Design intuitive user interfaces and prototypes in Figma","Design"
+15,Agile Project Management,"Manage software projects using Scrum and Agile methodologies","Management"
